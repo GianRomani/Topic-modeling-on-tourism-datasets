@@ -1,0 +1,6 @@
+,C_uci,Coherence (C_V),Coherence (u_mass),Coherence (c_npmi),Topic Diversity,Number ot topics,IRBO,
+AirBnB,-3.42,0.62,-1.52,-0.06,0.92,6,0.98,
+TripAdvisor,-3.42,0.70,-1.17,-0.01,0.94,6,0.98,
+EasyTour,-4.57,0.56,-5.38,-0.10,0.84,50.1,0.995,Top2Vec
+20NewsGroup,-2.72,0.64,-2.74,-0.02,0.91,83,0.998,
+TourPedia,-6.72,0.35,-8.10,-0.22,0.61,40.8,0.97,
